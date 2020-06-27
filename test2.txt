@@ -1,0 +1,4 @@
+This time let's do this myself
+to exit press esc
+to save press :w, then enter
+to leave press :q, then enter
